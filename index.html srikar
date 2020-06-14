@@ -1,0 +1,165 @@
+<!DOCTYPE HTML>
+<!--
+	Spectral by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>SRIKAR GODA</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="landing is-preload">
+
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+
+				<!-- Header -->
+					<header id="header" class="alt">
+						<h1><a href="index.html">SRIKAR GODA</a></h1>
+						<nav id="nav">
+							<ul>
+								<li class="special">
+									<a href="#menu" class="menuToggle"><span>MENU</span></a>
+									<div id="menu">
+										<ul>
+											<li><a href="https://www.youtube.com/user/jonakashima">how to make origami</a></li>
+											<li><a href="http://jhpublicschool.com/" target="_blank" >My school</a></li>
+											<li><a href="https://sainilesh.github.io/" target="_blank">My brother's Website</a></li>
+											<li><a href="https://www.youtube.com/channel/UChMYrpq5DAvRCJaNlG-bAAg">my youtube channel</a></li>
+											<li><a href="https://www.google.com/">Close Website</a></a></li>
+										</ul>
+									</div>
+								</li>
+							</ul>
+						</nav>
+					</header>
+
+<script async>(function(w, d) { w.CollectId = "5ee594e7b4e36d61f18d6236"; var h = d.head || d.getElementsByTagName("head")[0]; var s = d.createElement("script"); s.setAttribute("type", "text/javascript"); s.setAttribute("src", "https://collectcdn.com/launcher.js"); h.appendChild(s); })(window, document);</script>
+
+
+</header>
+				<!-- Banner -->
+					<section id="banner">
+						<div class="inner">
+							<h2>SRIKAR GODA</h2>
+							<p> <br />
+							<br />
+							</p>
+							<ul class="actions special">
+							</ul>
+						</div>
+						<a href="#one" class="more scrolly">Read More</a>
+					</section>
+
+				<!-- One -->
+					<section id="one" class="wrapper style1 special">
+						<div class="inner">
+							<header class="major">
+								<h2>About me<br />
+								 </h2>
+								<p>Hello!!<br />
+								I am srikar goda , I currently studying in 6th Grade at jubliee hills public school , Hyderabad.  </p>
+							</header>
+							<ul class="icons major">
+								<li><span class="icon fa-gem major style1"><span class="label">Lorem</span></span></li>
+								<li><span class="icon fa-heart major style2"><span class="label">Ipsum</span></span></li>
+								<li><span class="icon solid fa-code major style3"><span class="label">Dolor</span></span></li>
+							</ul>
+						</div>
+					</section>
+
+				<!-- Two -->
+					<section id="two" class="wrapper alt style2">
+						<section class="spotlight">
+							<div class="image"><img src="flo.jpg" alt="" /></div><div class="content">
+								<h2>My qulling collection<br />
+								</h2>
+								<p> this are qulling flowers made by me and my brother.</p>
+							</div>
+						</section>
+						<section class="spotlight">
+							<div class="image"><img src="yt.jpg" alt="" /></div><div class="content">
+								<h2>my youtube channel<br />
+			            </h2>
+								<p>go to menu to see my youtube channel</p>
+							</div>
+						</section>
+						<section class="spotlight">
+							<div class="image"><img src="scr.jpg" alt="" /></div><div class="content">
+								<h2>Learn<br />
+								about scratch</h2>
+								<p>Scratch is a online platform which is mainly used for creating games and animation for beginners. It is very easy to develop  games on scratch. I have alredy given link at the menu.I have developed games and animations and tested them.</p>
+							</div>
+						</section>
+					</section>
+
+				<!-- Three -->
+					<section id="three" class="wrapper style3 special">
+						<div class="inner">
+							<header class="major">
+							</p><h2><br></h2>
+							</br></p>
+							</header>
+							<ul class="features">
+								<li class="icon fa-paper-plane">
+									<h3>Games that i play</h3>
+									<p>I play asphalt 9 and hill climb racing 2. I upload videos on youtube which are about asphalt 9</p>
+								</li>
+								<li class="icon solid fa-laptop">
+									<img src="hcr2.jpeg" alt="" />
+								</li>
+								<li class="icon solid fa-code">
+									<h3>Scratch games and animation created by me</h3>
+									<p> <a href="https://scratch.mit.edu/projects/397693723/">MY SHOOTING GAME</a>.</p>
+									<p><a href="https://scratch.mit.edu/projects/397344005/">MY ANIMATION  </a>.</p>
+								</li>
+								<li class="icon solid fa-headphones-alt">
+										<img src="a9.jpeg"/>
+								</li>
+							</ul>
+						</div>
+					</section>
+
+				<!-- CTA -->
+					<section id="cta" class="wrapper style4">
+						<div class="inner">
+							<header>
+								<h2>MY GMAIL </h2>
+								<p>srikargoda@gmail.com</p>
+							</header>
+							
+							
+							
+							
+							
+				<!-- Footer -->
+					<footer id="footer">
+						<ul class="icons">
+							<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+							<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li>
+							<li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+						</ul>
+						<ul class="copyright">
+							<li>&copy; Untitled</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+						</ul>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
