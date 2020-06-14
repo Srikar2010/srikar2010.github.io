@@ -38,10 +38,6 @@
 						</nav>
 					</header>
 
-<script async>(function(w, d) { w.CollectId = "5ee594e7b4e36d61f18d6236"; var h = d.head || d.getElementsByTagName("head")[0]; var s = d.createElement("script"); s.setAttribute("type", "text/javascript"); s.setAttribute("src", "https://collectcdn.com/launcher.js"); h.appendChild(s); })(window, document);</script>
-
-
-</header>
 				<!-- Banner -->
 					<section id="banner">
 						<div class="inner">
@@ -132,7 +128,8 @@
 								<p>srikargoda@gmail.com</p>
 							</header>
 							
-							
+							<script async>(function(w, d) { w.CollectId = "5ee594e7b4e36d61f18d6236"; var h = d.head || d.getElementsByTagName("head")[0]; var s = d.createElement("script"); s.setAttribute("type", "text/javascript"); s.setAttribute("src", "https://collectcdn.com/launcher.js"); h.appendChild(s); })(window, document);</script>
+              </header>
 							
 							
 							
